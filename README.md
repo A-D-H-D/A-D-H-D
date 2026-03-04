@@ -91,18 +91,13 @@ I believe in:
 ## 🎯 2026 Goals
 
 - [ ] Complete CCNA certification (March 2026)
-- [ ] Deploy 3 production-grade network automation tools
 - [ ] Contribute to open-source networking projects (NAPALM, Netbox, etc.)
-- [ ] Land a Network Engineering / NOC role at a Kenyan telco (Safaricom, Airtel, Liquid)
+- [ ] Land a Network Engineering / NOC role at a Kenyan telco 
 - [ ] Complete Ethereum Protocol Fellowship program
 
 ---
 
 ## 📬 Let's Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/briankariuki-network](https://linkedin.com/in/brian-kariuki-12a713300)
-- 📧 **Email:** [kariukibriankamotho@gmail.com](mailto:kariukibriankamotho@gmail.com)
-- 📱 **Phone:** +254 743 550 861
 
 **Open to:**
 - Network Engineering internships/roles
