@@ -71,7 +71,7 @@ Real-time network device monitoring with ping/SNMP status checks.
 
 ## 📈 GitHub Stats
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanroutemeister&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?S-D-H-D=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanroutemeister&layout=compact&theme=tokyonight)
 
