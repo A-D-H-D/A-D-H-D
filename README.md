@@ -1,56 +1,47 @@
-# Hi, I'm <YOUR NAME>! 👋
+# Hi, I'm Brian Kamotho Kariuki! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+[cite_start]I am a final-year **Computer Science** student at **Meru University of Science and Technology (MUST)**, graduating in 2026[cite: 5, 10]. [cite_start]I am a network enthusiast and automation-driven developer, currently bridging the gap between traditional hardware infrastructure and the software-defined future of telecommunications[cite: 7, 74].
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Brian's Stats](https://github-readme-stats.vercel.app/api?username=bryanroutemeister&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- [cite_start]🔭 **Current Status**: Finalizing my **CCNA Certification** (Expected March 2026)[cite: 6, 20].
+- [cite_start]📡 **Networking Focus**: Proficient in OSI models, TCP/IP, VLANs, and routing protocols like **OSPF** and **EIGRP**[cite: 21, 31].
+  
+- [cite_start]🐧 **Linux Advocate**: Daily **CachyOS** user with a deep love for shell scripting, system optimization, and CLI-based administration.
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+---
 
+## 🛠️ Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### Networking & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=cisco,linux,bash,pws)](https://skillicons.dev)
+- [cite_start]**Hardware**: Cisco Routers, Switches, and Wireless Controllers[cite: 22].
+- [cite_start]**Protocols**: OSPF, BGP fundamentals, STP, and VLSM/CIDR subnetting[cite: 21, 31, 32].
+
+### Automation & Systems
+[![My Skills](https://skillicons.dev/icons?i=py,go,docker,mysql)](https://skillicons.dev)
+- [cite_start]**OS**: Linux/Unix Administration (Advanced CLI proficiency)[cite: 17, 37].
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- [cite_start]🚀 **Next-Gen Networks**: Deep diving into **SDN (Software Defined Networking)** and **NFV (Network Function Virtualization)**[cite: 7, 76].
+- [cite_start]🌐 **Telecommunications**: Exploring 5G transport networks and **IP/MPLS** backbone engineering[cite: 7, 77, 79].
+- [cite_start]**Programming**: **Golang**  for network-centric applications[cite: 38, 42].
+- 
 
- ## 🏆 Achievements
+---
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## 🏆 Achievements & Projects
 
+
+---
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- [cite_start]**Location**: Nairobi / Meru, Kenya [cite: 2]
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Thanks for stopping by! I am always open to collaborating on network automation projects or discussing the future of 5G and Network Visualization in Kenya. 🚀**
