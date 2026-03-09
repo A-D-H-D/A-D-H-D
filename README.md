@@ -31,7 +31,6 @@ Automation:
 
 Systems:
   OS: [Linux/Unix (CachyOS, Ubuntu), Windows Server]
-  Cloud: [AWS (VPC, EC2, Route 53)]
   Other: [Git, Docker, MySQL]
 
 Web Dev (Side Skills):
